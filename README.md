@@ -4,8 +4,6 @@
 <h2 align="left">
 <div align="center">
 
-### 👋 I'm Siv Ram Shastri  
-**Full Stack Web Developer** 💻  
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"/>
 
