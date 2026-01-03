@@ -13,16 +13,6 @@
 
 <hr>
 
-<h2>Let's get connected:</h2>
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-jeeva--m-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeeva-m-2b433b27a)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-jeeva018-orange?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/jeeva018)
-[![Email Badge](https://img.shields.io/badge/Email-jeeva59128%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeeva59128@gmail.com)
-
-</div>
-
-<hr>
-
 ## 👨‍💻 About Me  
 
 🎓 Integrated M.Tech in Computer Science @ VIT Chennai  
@@ -99,7 +89,16 @@
     <img src="https://github-profile-trophy.vercel.app/?username=jeevam18&theme=darkhub" />
   </a>
 </p>
+<hr>
+<h2>Let's get connected:</h2>
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-jeeva--m-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeeva-m-2b433b27a)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-jeeva018-orange?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/jeeva018)
+[![Email Badge](https://img.shields.io/badge/Email-jeeva59128%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeeva59128@gmail.com)
+
+</div>
+
+<hr>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JeevaM18&label=Profile+Views&color=brightgreen&style=flat-square" />
 </p>
