@@ -1,4 +1,7 @@
 <h1 align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Jeeva%20M&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <br />
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=46&duration=600&pause=60&color=58A6FF&center=true&vCenter=true&multiline=true&width=1400&height=220&lines=Hello+there!;This+is+Jeeva+M.;AI+%26+ML+Engineer+%7C+Full+Stack+Developer;DevOps+%26+Cloud+Engineer"
